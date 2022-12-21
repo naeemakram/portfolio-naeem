@@ -22,7 +22,8 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://www.udemy.com/course/tcpip-socket-programming-for-coders-using-csharp-net/?referralCode=502BB75B8D0BEE51037E", text = "Udemy: TCP/IP Sockets Programming in C#" }},
 		{ github = "https://github.com/naeemakram" },
 		{ twitter = "https://twitter.com/realnaeemakram" },
-		
+    { blog = { href = "https://www.blazemeter.com/blog/debug-jmeter", text = "BlazeMeter: Debugging JMeter Scripts" }}
+		#https://www.blazemeter.com/blog/debug-jmeter
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
