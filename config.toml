@@ -15,13 +15,14 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     # { email = "mailto:x@hotmail.com" },
-		{ Udemy = { href = "https://www.udemy.com/course/appium-winappdriver-automation-testing/?referralCode=ED22C3A4CE5BB5E22E53", text = "Udemy: WinAppDriver Automation Course" }},
 		{ linkedin = "https://www.linkedin.com/in/naeemakrammalik/" },
-		{ link = { href = "https://aprogrammersday.blogspot.com/", text = "Blog" }},
+    { youtube = "https://www.youtube.com/@testautomationtv" },
+    { link = { href = "https://www.udemy.com/course/appium-winappdriver-automation-testing/?referralCode=ED22C3A4CE5BB5E22E53", text = "Udemy: WinAppDriver Automation With Appium and C#" }},
+		{ google = { href = "https://aprogrammersday.blogspot.com/", text = "Blog" }},
+    { link = { href = "https://www.udemy.com/course/tcpip-socket-programming-for-coders-using-csharp-net/?referralCode=502BB75B8D0BEE51037E", text = "Udemy: TCP/IP Sockets Programming in C#" }},
 		{ github = "https://github.com/naeemakram" },
 		{ twitter = "https://twitter.com/realnaeemakram" },
-		{ youtube = "https://www.youtube.com/@testautomationtv" },
-
+		
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
