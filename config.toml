@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     # { email = "mailto:x@hotmail.com" },
-		{ Udemy = { href = "https://www.udemy.com/revenue-report/", text = "Udemy: WinAppDriver Automation Course" }},
+		{ Udemy = { href = "https://www.udemy.com/course/appium-winappdriver-automation-testing/?referralCode=ED22C3A4CE5BB5E22E53", text = "Udemy: WinAppDriver Automation Course" }},
 		{ linkedin = "https://www.linkedin.com/in/naeemakrammalik/" },
 		{ link = { href = "https://aprogrammersday.blogspot.com/", text = "Blog" }},
 		{ github = "https://github.com/naeemakram" },
