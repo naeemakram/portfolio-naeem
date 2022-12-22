@@ -1,4 +1,4 @@
-# baseURL = "https://naeemakrammalik.com/"
+# baseURL = "https://www.naeemakrammalik.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 
@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
 		{ linkedin = "https://www.linkedin.com/in/naeemakrammalik/" },
     { youtube = "https://www.youtube.com/@testautomationtv" },
     { link = { href = "https://www.udemy.com/course/appium-winappdriver-automation-testing/?referralCode=ED22C3A4CE5BB5E22E53", text = "Udemy: WinAppDriver Automation With Appium and C#" }},
-		{ google = { href = "https://aprogrammersday.blogspot.com/", text = "Blog" }},
+		{ google = { href = "https://aprogrammersday.blogspot.com/", text = "Blog: A Programmer's Day" }},
     { link = { href = "https://www.udemy.com/course/tcpip-socket-programming-for-coders-using-csharp-net/?referralCode=502BB75B8D0BEE51037E", text = "Udemy: TCP/IP Sockets Programming in C#" }},
 		{ github = "https://github.com/naeemakram" },
 		{ twitter = "https://twitter.com/realnaeemakram" },
